@@ -8,7 +8,7 @@ Under your name, state:
 <li>What limits you from completing your tasks.
 </ol>
 
-<b>John Mckinstry</b>
+<b>John</b>
 <ol>
 <li>Created the Project Management setup in the Project tab. Added user stories.
 <li>Add more user stories.

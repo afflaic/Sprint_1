@@ -10,8 +10,8 @@ Under your name, state:
 
 <b>John</b>
 <ol>
-<li>Created the Project Management setup in the Project tab. Added user stories. Git Pull/Push/Clone. Added Git workflow tutorial.
-<li>Refresh Java skills, learn Spring, build ppt
+<li>Created the Project Management setup in the Project tab. Added user stories. Git Pull/Push/Clone. Added Git workflow tutorial. Added Screenshots. Added Java/Spring tutorials.
+<li>Build ppt, Have Chris and Nick be more active in the communication process
 <li>Time
 </ol>
 

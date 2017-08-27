@@ -38,7 +38,7 @@ Under your name, state:
 
 <b>Chris</b>
 <ol>
-<li>Joined the GitHub and Slack Channel. Posted java tutorials into the Slack Channel along with a tutorial for Slack from TutorialsPoint. Added my name and editted the ReadMe file on the GitHub.
+<li>Joined the GitHub and Slack Channel. Posted java tutorials into the Slack Channel along with a tutorial for Slack from TutorialsPoint, and then created a reference file on GitHub with all the links. Added my name and editted the ReadMe file on the GitHub.
 <li>Learning the ins and outs of GitHub and Slack.
 <li>Managing my time between my home life and school.
 </ol>

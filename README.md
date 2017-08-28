@@ -10,8 +10,8 @@ Under your name, state:
 
 <b>John</b>
 <ol>
-<li>Created the Project Management setup in the Project tab. Added user stories. Git Pull/Push/Clone.
-<li>Refresh Java skills, learn Spring, build ppt
+<li>Created the Project Management setup in the Project tab. Added user stories. Git Pull/Push/Clone. Added Git workflow tutorial. Added Screenshots. Set up Eclipse/Spring environment. Added Java/Spring tutorials. Setup Eclipse/Spring environment.
+<li>Build ppt, Have Nick be more active in the communication process
 <li>Time
 </ol>
 
@@ -34,4 +34,11 @@ Under your name, state:
 <li>TEST
 <li>
 <li>
+</ol>
+
+<b>Chris</b>
+<ol>
+<li>Joined the GitHub and Slack Channel. Posted java tutorials into the Slack Channel along with a tutorial for Slack from TutorialsPoint, and then created a reference file on GitHub with all the links. Added my name and editted the ReadMe file on the GitHub. And finally, installed the Eclipse IDE and Spring IDE/Framework plugin into Eclipse.
+<li>Learning the ins and outs of GitHub and Slack.
+<li>Managing my time between my home life and school.
 </ol>

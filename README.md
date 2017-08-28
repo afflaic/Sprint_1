@@ -31,9 +31,9 @@ Under your name, state:
 
 <b>Diego</b>
 <ol>
-<li>TEST
-<li>
-<li>
+<li>Joined Github and Slack Channel. Installed eclipse and have been brushing up java skills with ide.
+<li>Learn Spring framework for java plugin, master github commands in command prompt to pull, edit, commit and push.
+<li>Time and lack of use of java skills in a year.
 </ol>
 
 <b>Chris</b>

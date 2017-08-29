@@ -24,9 +24,9 @@ Under your name, state:
 
 <b>Nick</b>
 <ol>
-<li>
-<li>
-<li>
+<li>Downloaded GitHub Desktop. Installed and setup eclipse. Read through all the slack messages.
+<li>Learn more about the Spring framework. Get better at using github.
+<li>Not having internet in my house yet has held me back this week.
 </ol>
 
 <b>Diego</b>

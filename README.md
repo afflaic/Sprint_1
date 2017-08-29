@@ -10,9 +10,9 @@ Under your name, state:
 
 <b>John</b>
 <ol>
-<li>Created the Project Management setup in the Project tab. Added user stories. Git Pull/Push/Clone. Added Git workflow tutorial. Added Screenshots. Set up Eclipse/Spring environment. Added Java/Spring tutorials. Setup Eclipse/Spring environment.
-<li>Build ppt, Have Nick be more active in the communication process
-<li>Time
+<li>Created the Project Management setup in the Project tab. Added user stories. Git Pull/Push/Clone. Added Git workflow tutorial. Added Screenshots. Set up Eclipse/Spring environment. Added Java/Spring/Git tutorials. Setup Eclipse/Spring environment. Created .ppt slideshow. Setup semester long Git repo in prep for Spring_2 and beyond.
+<li>Have Nick be more active in the communication process. Learn Spring Boot.
+<li>Time and other ways to communicate with team mates.
 </ol>
 
 <b>Joel</b>
